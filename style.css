@@ -1,0 +1,6 @@
+header{
+    background-image: linear-gradient(rgba(170, 160, 218, 0.37), rgba(216, 164, 207, 0.5)), url(assets/prueba1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.3;
+}
