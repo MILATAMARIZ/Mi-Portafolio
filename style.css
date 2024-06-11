@@ -1,6 +1,8 @@
 header{
-    background-image: linear-gradient(rgba(170, 160, 218, 0.37), rgba(216, 164, 207, 0.5)), url(assets/prueba1.jpg);
+    background-image: linear-gradient(rgba(241, 241, 243, 0), rgba(255, 255, 255, 0)), url(assets/Fondot.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 0.3;
+    background-size:cover; /*Recordar que para el tamaño puede ser cover o 100% 100%*/
+    opacity: none;
+
 }
