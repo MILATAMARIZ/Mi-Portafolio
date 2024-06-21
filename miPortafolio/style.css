@@ -1,0 +1,16 @@
+header{
+    background-image: linear-gradient(rgba(241, 241, 243, 0), rgba(255, 255, 255, 0)), url(assets/Fondot.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover; /*Recordar que para el tamaño puede ser cover o 100% 100%*/
+    opacity: none;
+
+}
+
+
+.img-proyecto{width: 100%;}
+.img-camis{width: 20%;}
+.img-test{width: 20%;}
+
+.img-camila{width: 20%;}
+
